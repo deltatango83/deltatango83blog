@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on deltatango83</title>
-    <link>http://localhost:1313/deltatango83/categories/</link>
+    <link>http://localhost:1313/deltatango83blog/categories/</link>
     <description>Recent content in Categories on deltatango83</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/deltatango83/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deltatango83blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

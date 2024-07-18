@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deltatango83</title>
-    <link>http://localhost:1313/deltatango83/</link>
+    <link>http://localhost:1313/deltatango83blog/</link>
     <description>Recent content on deltatango83</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jul 2024 15:53:51 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/deltatango83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deltatango83blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/deltatango83/posts/2024-07-18/</link>
+      <link>http://localhost:1313/deltatango83blog/posts/2024-07-18/</link>
       <pubDate>Thu, 18 Jul 2024 15:53:51 +0800</pubDate>
-      <guid>http://localhost:1313/deltatango83/posts/2024-07-18/</guid>
+      <guid>http://localhost:1313/deltatango83blog/posts/2024-07-18/</guid>
       <description></description>
     </item>
     <item>
       <title>David Taylor</title>
-      <link>http://localhost:1313/deltatango83/resume/</link>
+      <link>http://localhost:1313/deltatango83blog/resume/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/deltatango83/resume/</guid>
+      <guid>http://localhost:1313/deltatango83blog/resume/</guid>
       <description>First line of my resume Second Line of my resume&#xA;Work History&#xD;Link to heading&#xD;Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/deltatango83/about/</link>
+      <link>http://localhost:1313/deltatango83blog/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/deltatango83/about/</guid>
+      <guid>http://localhost:1313/deltatango83blog/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
   </channel>
