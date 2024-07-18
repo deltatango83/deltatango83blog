@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on deltatango83</title>
-    <link>http://localhost:1313/deltatango83/deltatango83blog/posts/</link>
+    <link>http://localhost:1313/deltatango83/posts/</link>
     <description>Recent content in Posts on deltatango83</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jul 2024 15:53:51 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/deltatango83/deltatango83blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/deltatango83/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/deltatango83/deltatango83blog/posts/2024-07-18/</link>
+      <link>http://localhost:1313/deltatango83/posts/2024-07-18/</link>
       <pubDate>Thu, 18 Jul 2024 15:53:51 +0800</pubDate>
-      <guid>http://localhost:1313/deltatango83/deltatango83blog/posts/2024-07-18/</guid>
+      <guid>http://localhost:1313/deltatango83/posts/2024-07-18/</guid>
       <description></description>
     </item>
   </channel>
