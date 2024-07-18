@@ -1,5 +1,4 @@
-baseurl = "https://deltatango83.github.io/deltatango83blog/"
-# baseurl = "https://github.com/deltatango83/deltatango83blog/"
+baseurl = "https://github.com/deltatango83/deltatango83blog/"
 title = "deltatango83"
 theme = "hugo-coder"
 languagecode = "en"
