@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/</loc>
     <lastmod>2024-07-18T15:53:51+08:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/posts/</loc>
     <lastmod>2024-07-18T15:53:51+08:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/resume/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/resume/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/authors/</loc>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/series/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://github.com/deltatango83/deltatango83blog/tags/</loc>
   </url>
 </urlset>
