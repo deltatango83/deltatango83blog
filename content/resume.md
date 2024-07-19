@@ -8,7 +8,7 @@ author = "David Taylor"
 
 # Associate Cyber Security Consultant at CyberCX
 
-[LinkedIn](https://www.linkedin.com/in/david-t-355806228/)
+[LinkedIn](https://www.linkedin.com/in/davidtaylor83/)
 
 # About me
 
