@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 18 Jul 2024 15:53:51 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/deltatango83blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>My First Post</title>
       <link>http://localhost:1313/deltatango83blog/posts/2024-07-18/</link>
       <pubDate>Thu, 18 Jul 2024 15:53:51 +0800</pubDate>
       <guid>http://localhost:1313/deltatango83blog/posts/2024-07-18/</guid>
-      <description></description>
+      <description>18 July 2023&#xD;Link to heading&#xD;My First Blog Post&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</description>
     </item>
   </channel>
 </rss>
